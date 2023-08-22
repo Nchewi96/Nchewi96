@@ -2,6 +2,6 @@ include <iostream>
 
 using namespace std;
 
-cout << "I amawesome"<< endl;
+cout << "I amawesome";
 
-return 0;
+return 0
