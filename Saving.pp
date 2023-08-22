@@ -4,4 +4,4 @@ using namespace std;
 
 cout << "I amawesome";
 
-return 0
+return 0;
